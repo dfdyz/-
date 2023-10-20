@@ -1,6 +1,6 @@
 # 准备工作
 
-1. 安装**<u>unity2022.3.6f1</u>**
+1. 安装<u>**unity2022.3.6f1**</u>
 
    参考视频：[安装Unity引擎和代码编辑器｜Unity2022.2 最新教程《勇士传说》入门到进阶｜4K_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1mL411o77x/?spm_id_from=333.337.search-card.all.click&vd_source=0fd2ef88be43b335dec5c144c2a76158)
 
