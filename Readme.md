@@ -4,3 +4,6 @@
 
 
 ### [交作业用仓库](https://github.com/dfdyz/2023RealityGameCamp_Programming)
+
+# 训练营课件
+### [Week 1](https://github.com/dfdyz/-/blob/main/Week1.md)
