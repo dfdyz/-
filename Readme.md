@@ -7,3 +7,4 @@
 
 # 训练营课件
 ### [Week 1](https://github.com/dfdyz/-/blob/main/Week1.md)
+### [Week 1](https://github.com/dfdyz/-/blob/main/Week2.md)
